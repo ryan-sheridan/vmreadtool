@@ -1,0 +1,9 @@
+Package: 0xryan
+Name: vmreadtool
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: a shitty tool that reads a certain number of bytes in a process you cant change.
+Maintainer: 0xryan
+Author: 0xryan
+Section: System
+Tag: role::hacker
